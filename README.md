@@ -1,6 +1,6 @@
-# vue-music
+# webapp music
 
-> music player
+> based on vue.js
 
 ## Build Setup
 
